@@ -1,6 +1,5 @@
 # Guacamole 
 ## Ingredients 
-- Sugar (ill-considered change)
 - Avocado 
 - Lime 
 - Salt 
